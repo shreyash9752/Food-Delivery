@@ -87,7 +87,7 @@ Feel free to contribute to this project! If you want to add new features, submit
 ---
 
 ## 📧 Contact
-For any questions, reach out via [your-email@example.com](mailto:your-email@example.com)
+For any questions, reach out via [shreyashgujar05@gmail.com](mailto:your-email@example.com)
 
 ---
 
